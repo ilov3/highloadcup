@@ -1,0 +1,1 @@
+Mail.ru HighLoadCup solution. Just4Fun.
